@@ -31,6 +31,7 @@ A full stack CRUD application built with the MERN stack (MongoDB, Express, React
 
 ## Project Structure
 
+```
 student-management-system/
 ├── backend/
 │ ├── config/ # Database connection setup
@@ -50,6 +51,7 @@ student-management-system/
 │ ├── utils/ # Frontend helper functions
 │ ├── App.jsx
 │ └── main.jsx
+```
 
 ## API Endpoints
 
