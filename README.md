@@ -96,8 +96,10 @@ npm install
 
 Create a `.env` file in the `backend` folder:
 
+```
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
+```
 
 Run the backend server:
 
@@ -118,7 +120,9 @@ npm install
 
 Create a `.env` file in the `frontend` folder:
 
+```
 VITE_API_BASE_URL=http://localhost:5000/api
+```
 
 Run the frontend dev server:
 
